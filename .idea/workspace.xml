@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9a9e217-0419-4edb-b587-55994087b519" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Abstract/AbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/CheckEvenOrOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/Convert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/MyIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/Simple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructor/ChainingOfConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructor/ConstOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructor/ConstructorBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructor/ConstructorInStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/DivideByZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/MultipleCatchSingleTry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interFace/UsingDefault.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exception/ExceptionEg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/ExceptionEg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operators/InstanceOp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators/InstanceOp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/StringHtmlTags.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/StringLength.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Abstract/AbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abstract/AbstractClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,5 +1,5 @@
 package Abstract;
-
+//updated code
 //ABSTRACTION OF JAVA CLASS
 abstract class Car{
     abstract void longdrive();
